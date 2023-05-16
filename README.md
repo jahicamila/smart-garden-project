@@ -1,1 +1,1 @@
-# smart-garden-project
+# This system can operate on both FPGA in Verilog and Raspberry Pi 4. It use two soil moisture sensors and a robot to water the garden when needed. The signal is received through the ESP8266 module and the robot is powered by four DC motors. The system is designed to read an RFID card, which triggers the pump to turn on and water the garden.
